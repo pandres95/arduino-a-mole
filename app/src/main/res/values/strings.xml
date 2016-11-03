@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Arduino-a-Mole</string>
+    <string name="title_activity_main">Arduino-a-Mole</string>
+    <string name="label_non_devices_help">Si no hay dispositivos en la lista, por favor enlaza tu dispositivo en la configuración de Android</string>
+    <string name="label_no_paired_devices">No paired devices were found</string>
+</resources>
